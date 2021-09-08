@@ -1,0 +1,12 @@
+package banking;
+
+public class Account {
+	private String ano;   //°èÁÂ ¹øÈ£
+	private String owner; //°èÁÂÁÖ
+	private int balance;  //ÀÜ°í
+
+	
+	public Account(String ano, String owner, int balance) {
+		
+	}
+}
